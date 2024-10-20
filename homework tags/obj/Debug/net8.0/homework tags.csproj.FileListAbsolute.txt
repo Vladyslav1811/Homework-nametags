@@ -1,0 +1,14 @@
+C:\Users\vlad\Desktop\Hillel C# Basic\Home Work\homework tags\homework tags\bin\Debug\net8.0\homework tags.exe
+C:\Users\vlad\Desktop\Hillel C# Basic\Home Work\homework tags\homework tags\bin\Debug\net8.0\homework tags.deps.json
+C:\Users\vlad\Desktop\Hillel C# Basic\Home Work\homework tags\homework tags\bin\Debug\net8.0\homework tags.runtimeconfig.json
+C:\Users\vlad\Desktop\Hillel C# Basic\Home Work\homework tags\homework tags\bin\Debug\net8.0\homework tags.dll
+C:\Users\vlad\Desktop\Hillel C# Basic\Home Work\homework tags\homework tags\bin\Debug\net8.0\homework tags.pdb
+C:\Users\vlad\Desktop\Hillel C# Basic\Home Work\homework tags\homework tags\obj\Debug\net8.0\homework tags.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vlad\Desktop\Hillel C# Basic\Home Work\homework tags\homework tags\obj\Debug\net8.0\homework tags.AssemblyInfoInputs.cache
+C:\Users\vlad\Desktop\Hillel C# Basic\Home Work\homework tags\homework tags\obj\Debug\net8.0\homework tags.AssemblyInfo.cs
+C:\Users\vlad\Desktop\Hillel C# Basic\Home Work\homework tags\homework tags\obj\Debug\net8.0\homework tags.csproj.CoreCompileInputs.cache
+C:\Users\vlad\Desktop\Hillel C# Basic\Home Work\homework tags\homework tags\obj\Debug\net8.0\homework tags.dll
+C:\Users\vlad\Desktop\Hillel C# Basic\Home Work\homework tags\homework tags\obj\Debug\net8.0\refint\homework tags.dll
+C:\Users\vlad\Desktop\Hillel C# Basic\Home Work\homework tags\homework tags\obj\Debug\net8.0\homework tags.pdb
+C:\Users\vlad\Desktop\Hillel C# Basic\Home Work\homework tags\homework tags\obj\Debug\net8.0\homework tags.genruntimeconfig.cache
+C:\Users\vlad\Desktop\Hillel C# Basic\Home Work\homework tags\homework tags\obj\Debug\net8.0\ref\homework tags.dll
